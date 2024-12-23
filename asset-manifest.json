@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BizView-An_Admin_Dashboard/static/css/main.714dda56.css",
+    "main.js": "/BizView-An_Admin_Dashboard/static/js/main.97b76afa.js",
+    "index.html": "/BizView-An_Admin_Dashboard/index.html",
+    "main.714dda56.css.map": "/BizView-An_Admin_Dashboard/static/css/main.714dda56.css.map",
+    "main.97b76afa.js.map": "/BizView-An_Admin_Dashboard/static/js/main.97b76afa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.714dda56.css",
+    "static/js/main.97b76afa.js"
+  ]
+}
